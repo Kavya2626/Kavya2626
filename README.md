@@ -1,7 +1,7 @@
 # Hi, I'm Kavya S 👋
 
 - 🔭 Currently working as a Frontend Developer with a strong focus on clean UI.
-- 🌱 Learning **Cloud & deployment basics**
+- 🌱 Learning **backend technologies**
 - 👯 Open to **collaborations and team projects**
 - 📫 How to reach me: skavya9789@gmail.com
 
